@@ -1,4 +1,4 @@
 import Avatar
 
 avatar = Avatar.Avatar('Avatar.png')
-avatar.GetNewAvatar()
+avatar.GetNewAvatar('circleflag')
